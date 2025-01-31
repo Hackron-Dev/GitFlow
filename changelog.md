@@ -21,6 +21,10 @@ Maintenance format:
 - Changed language in `changelog.md` to English
 
 ## [1.1.1] - 2025-01-31
-### Добавлено
+### Added
 - Added Wiki links to `README.md` for easy access to documentation.
 - Updated `Changelog.md`
+
+## [2.0.0] - 2025-01-31
+### Added
+- Added update of legendary programm that was deleted from internet
