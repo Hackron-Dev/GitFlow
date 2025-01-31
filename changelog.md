@@ -19,3 +19,8 @@ Maintenance format:
 - Added project logo to `README.md`.
 ### Changed:
 - Changed language in `changelog.md` to English
+
+## [1.1.1] - 2025-01-31
+### Добавлено
+- Added Wiki links to `README.md` for easy access to documentation.
+- Updated `Changelog.md`
