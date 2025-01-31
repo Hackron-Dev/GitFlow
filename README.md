@@ -10,3 +10,10 @@ This is GitFlow testing rep.
 
 ## Changelog
 История изменений: [changelog.md](changelog.md)
+
+
+## Logo
+
+<p align="center">
+  <img src="assets/logo.png" alt="Project Logo" width="200">
+</p>
