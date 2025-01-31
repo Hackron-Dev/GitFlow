@@ -3,7 +3,7 @@
 This is GitFlow testing rep.
 
 ## Разработчик
-[Hackron]
+[Hackron](https://github.com/Hackron-Dev)
 
 ## Install
 См. [install.md](install.md)
