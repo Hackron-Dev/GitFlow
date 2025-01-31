@@ -1,15 +1,21 @@
 # Changelog
 
-Все заметные изменения в этом проекте будут документироваться в этом файле.
+Any noticeable changes to this project will be documented in this file.
 
-Формат ведения:
-- **Добавлено** – новые возможности.
-- **Изменено** – изменения в существующем функционале.
-- **Исправлено** – исправления багов.
-- **Удалено** – удаленные функции.
+Maintenance format:
+- **Added** – new features.
+- **Changed** – changes in the existing functionality.
+- **Fixed** – bug fixes.
+- **Deleted** – deleted functions.
 
 ## [1.0.0] - 2025-01-31
-### Добавлено
-- Инициализация проекта.
-- Добавлены файлы: `README.md`, `install.md`, `changelog.md`.
-- Настроен базовый репозиторий.
+### Added
+- Initializing the project.
+- Added the following files: `README.md`, `install.md`, `changelog.md`.
+- The base repository is configured.
+
+## [1.1.0] - 2025-01-31
+### Added:
+- Added project logo to `README.md`.
+### Changed:
+- Changed language in `changelog.md` to English
